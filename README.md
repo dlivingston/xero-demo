@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Xero Demo App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Project Writeup
+
+Built to the specifications in the codesandbox README. 
+
+I used the css from the [Water.css](https://github.com/kognise/water.css) project to provide some clean default styling as well as 'dark' and 'light' theme based on the `prefers-color-scheme` media query.
+
+I decided to use the `useState` React Hook to manage the form data. If I'd had more time I would have included some form validation and unit tests. 
+
 
 ## Available Scripts
 
